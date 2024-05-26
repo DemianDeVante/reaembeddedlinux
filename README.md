@@ -43,7 +43,10 @@ The main purpose of this collection is to provide an embedded version. If you ow
 - Saturation ZenoMOD (Saturation)
 - Transpire by Sonic Anomaly
 - Spatial Enhancer by Jonas (Stereo Enhancer)
-
+- Thanx EQ by VladG
+- RBJ Highpass Lowpass
+- Ugly Pitch
+  
 ![screenshot](https://i.imgur.com/3jJMBOr.png)
 
 If you want to modify the designs, you can find the krita files in [this dropbox](https://www.dropbox.com/scl/fo/quy19ss8fme8w9v7jho92/AJGYaDq7Eq4x67pMeS0BjZk?rlkey=ljbzmmjnsjtbibbbph8ar3clt&st=h5np7bkt&dl=0)
