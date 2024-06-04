@@ -9,7 +9,7 @@ A few weeks ago, I created a UI library based on Tukan's jsfx, to simplify the p
 
 Now available on ReaPack with this repository:
 
-[https://raw.githubusercontent.com/DemianDeVante/reaembeddedlinux/main/index.xml](https://raw.githubusercontent.com/DemianDeVante/reaembeddedlinux/main/index.xml)
+[https://raw.githubusercontent.com/DemianDeVante/reaembedded/main/index.xml](https://raw.githubusercontent.com/DemianDeVante/reaembedded/main/index.xml)
 
 
 ![jsfxmcpdesigns](https://stash.reaper.fm/48598/jsfxmcpdesigns.png)
