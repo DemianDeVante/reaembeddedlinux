@@ -1,9 +1,9 @@
 # embeDDed (linux)
-## jsfx collection
+## THIS VERSION IS DEPRECATED, FOR LINUX USERS INSTALL THE LINUX VERSION WITH THE [MAIN REPOSITORY](https://github.com/DemianDeVante/reaembedded)
 
 **Use effects right away in the mixer, just like in Cakewalk's ProChannel.**
 
-[Reaper Forums](https://forums.cockos.com/showthread.php?p=2783504#post2783504) | [Windows/MacOS](https://github.com/DemianDeVante/reaembedded)
+[Reaper Forums](https://forums.cockos.com/showthread.php?p=2783504#post2783504)
 
 A few weeks ago, I created a UI library based on Tukan's jsfx, to simplify the process of adding a GUI to js effects. I began by sharing some examples of classic js that could benefit from a facelift using designs from Analog Obsession, Tukan, Pitufodelbosque, and ReArtist. The positive feedback encouraged me to develop original designs from scratch.
 
